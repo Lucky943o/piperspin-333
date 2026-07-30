@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://piperspin-333.pages.dev/sitemap.xml
+Sitemap: https://piperspin-333-1if.pages.dev/sitemap.xml
